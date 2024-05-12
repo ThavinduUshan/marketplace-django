@@ -40,11 +40,11 @@ Perform database migrations:
 python manage.py runserver
 ```
 
-##API Endpoints
+## API Endpoints
 
 ...
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to fork this repository, make changes, and submit a pull request.
 
